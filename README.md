@@ -1,10 +1,10 @@
 # 📚 RAG PDF Chatbot
 
-A smart chatbot that leverages **Retrieval-Augmented Generation (RAG)** to answer user queries based on the contents of a provided PDF. This tool combines the power of document retrieval with large language models to provide accurate and context-aware responses from custom documents.
+A smart chatbot that leverages **Retrieval-Augmented Generation (RAG)** to answer user queries based on the contents of a provided PDF. This tool combines the power of document retrieval with large language models to provide accurate and context-aware responses from custom documents. It also provide the summary of PDF.
 
 ## 🚀 Live Demo
 
-🔗 [Use the RAG PDF Chatbot on Hugging Face Spaces](https://huggingface.co/spaces/Maryam42/rag-pdf-chatbot)
+🔗 [Use the RAG PDF Chatbot on Hugging Face Spaces](https://huggingface.co/spaces/Maryam42/pdf_chatbot)
 
 ---
 
